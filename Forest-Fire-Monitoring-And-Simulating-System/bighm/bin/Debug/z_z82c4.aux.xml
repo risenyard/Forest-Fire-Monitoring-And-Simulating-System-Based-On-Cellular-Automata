@@ -1,0 +1,14 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>z_z82c4</Description>
+    <NoDataValue>6.55350000000000E+004</NoDataValue>
+    <Metadata>
+      <MDI key="RadianceBias">490.000000</MDI>
+      <MDI key="RadianceGain">490.000000</MDI>
+      <MDI key="SolarIrradiance">490.000000</MDI>
+      <MDI key="SourceBandIndex">3</MDI>
+      <MDI key="WavelengthMax">490.000000</MDI>
+      <MDI key="WavelengthMin">490.000000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

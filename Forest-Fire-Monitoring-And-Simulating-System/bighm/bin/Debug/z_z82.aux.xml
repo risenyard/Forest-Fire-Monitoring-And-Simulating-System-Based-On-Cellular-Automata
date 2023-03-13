@@ -1,0 +1,17 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>z_z82c1</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>z_z82c2</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>z_z82c3</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>z_z82c4</Description>
+  </PAMRasterBand>
+</PAMDataset>
